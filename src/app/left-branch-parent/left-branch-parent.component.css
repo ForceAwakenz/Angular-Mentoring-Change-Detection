@@ -1,0 +1,10 @@
+:host {
+    display: flex;
+    margin: 5px;
+}
+
+*:not(p) {
+    background-color: salmon;
+    border: 2px orchid solid;
+    margin: 5px;
+}
